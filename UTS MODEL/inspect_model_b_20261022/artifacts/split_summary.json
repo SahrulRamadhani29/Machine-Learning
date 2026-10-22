@@ -1,0 +1,10 @@
+{
+  "official_train": 27455,
+  "train_before_augmentation": 21964,
+  "validation": 5491,
+  "train_after_augmentation": 43928,
+  "official_test": 7172,
+  "augmentation_copies": 1,
+  "seed": 42,
+  "test_used_for_training": false
+}

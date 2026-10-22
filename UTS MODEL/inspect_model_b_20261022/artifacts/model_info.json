@@ -1,0 +1,9 @@
+{
+  "model_size_bytes": 17336253,
+  "model_size_mib": 16.5331392288208,
+  "support_vectors": 22963,
+  "timed_samples": 1000,
+  "end_to_end_inference_seconds": 5.046482800999911,
+  "latency_ms_per_image": 5.046482800999911,
+  "training_seconds": 98.38560275499998
+}

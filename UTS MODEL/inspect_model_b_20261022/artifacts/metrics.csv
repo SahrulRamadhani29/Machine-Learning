@@ -1,0 +1,3 @@
+split,samples,correct,incorrect,accuracy,macro_precision,macro_recall,macro_f1,prediction_seconds
+validation,5491,5491,0,1.0,1.0,1.0,1.0,21.93289580399994
+test_clean,7172,7023,149,0.9792247629670943,0.9739766913965807,0.9777363974352985,0.9752923758626147,26.284639051

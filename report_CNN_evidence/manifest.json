@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-10-21T18:10:11.933143+00:00",
+  "training_performed": false,
+  "gpu_used": false,
+  "files": {
+    "augmentation_demonstration.png": "4037977ae0b74ced2cdeba27d5b6ba125fa194651e05959f95db192dee2b886a",
+    "cnn_architecture.png": "721051e08cb9544c517bdfe6b26006a603355694383ec8058f3171c86032b1df",
+    "dataset_sign_mnist_examples.png": "70322f6cb948b79eb64d70f431ef3db28df5725e5e27cc639fd3c17f76a363df",
+    "evaluation_evidence.png": "321d5cdf6af6bbe43b4970809bdf6f0cd475402da8a00fd1531e7e3f603c6eeb",
+    "feature_maps_tflite.png": "11833fd808660cb16328ed1612d56220f4883add727b3fa087cb61188aff5ec9",
+    "feature_map_provenance.json": "259d56c7c082328f02c0a976315a2c26f80007c613bf21f9e12a65831add1bd3",
+    "hf_example_original.jpg": "db532414e1a81f88186292132bb5a2ab6ef8d70a7933f461812d43e50775add8",
+    "hf_example_rows.json": "994e07dbbdf65eab23734526e9e763dca7c77d4598cd69f0407986dfe7aaad2e",
+    "model_metadata-original.json": "5babc2c0129b53dd8cd88b2448c00d39564460e8ce01d09151b4d1d5e16718f9",
+    "pekerjaan_lanjutan.md": "e0a22bbe9da20e9c9c35f9020c06b3d96920213eaa10698b984575dc6fa8316b",
+    "per_class_metrics.csv": "cc4be439328907eb0fa4cbd177c224655b412273b7f047e41ed492a3cda06654",
+    "preprocessing_real_example.png": "d601eaa37232c42aaae78e70aa94283432e841cca3234e3c9de2ea09052e6bad",
+    "sign_mnist_test.csv": "0e9d67bae23e67f40728e0b63bf15ad4bd5175947b8a9fac5dd9f17ce133c47b",
+    "test_class_distribution.png": "8205fec1bdaf181cb155cadd95e3804a28d9930771ce0989144a2a5eb869474c",
+    "test_predictions.csv": "aaf08be2ae6c9f3ad0e86e657fd001e1b86e416b03b062ba21fb5e846eb0f90b",
+    "tflite_confusion_matrix.png": "0ecd772e4323b6832e7a240daed4608f7d3766c45e6b56e3a291ed4f0c1c69dd",
+    "tflite_cpu_evaluation.json": "73939dc447db49116276d59284db70d82e2933e00577f7bf894d4fd15e8c7eb9",
+    "tflite_predictions.npz": "7ce4f7510962d9a1d2d8dd9f3adf75eefc542ab399263fc30825b806936a2a67",
+    "tflite_prediction_examples.png": "7149c65da3fd4f5f3ef58f9085c509f916a776a0a921c69a1be1edf22003f10d",
+    "training-source-original.ipynb": "5f111551e0e2e6b4b0acfa3aa9119a163672a82c9e2d65768a3915f7de2496a3",
+    "training_curves.png": "08de48f975b5670be8e0f1177d8bfeda804a23cb8478c91ddccdf005fc65a408",
+    "training_history_from_saved_output.csv": "735ffaab18220694bbef7f0e7ee9c38b7d94856370036f7989bdfaff165bd3b2",
+    "training_log_original.txt": "c38c3150267b2e0bbbd3e7e4ca09a78f6d319bc29a164295e58189ba2ab7976b"
+  },
+  "report_sha256": "eae2799946161554103a70c0cf3008b9eda2549edeb334a8e0d52d97dcc9e29f"
+}

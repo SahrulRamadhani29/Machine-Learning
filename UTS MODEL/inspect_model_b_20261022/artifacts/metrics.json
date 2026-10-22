@@ -1,0 +1,24 @@
+[
+  {
+    "split": "validation",
+    "samples": 5491,
+    "correct": 5491,
+    "incorrect": 0,
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "prediction_seconds": 21.93289580399994
+  },
+  {
+    "split": "test_clean",
+    "samples": 7172,
+    "correct": 7023,
+    "incorrect": 149,
+    "accuracy": 0.9792247629670943,
+    "macro_precision": 0.9739766913965807,
+    "macro_recall": 0.9777363974352985,
+    "macro_f1": 0.9752923758626147,
+    "prediction_seconds": 26.284639051
+  }
+]

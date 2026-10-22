@@ -1,0 +1,24 @@
+{
+  "model_sha256": "74f52ab0d6f091b37600ce65c4b7797a102c6e26112b6c2e4824483b168140bc",
+  "tensor_name": "asl24_camera_robust_1/relu0_a_1/Relu;asl24_camera_robust_1/bn0_a_1/batchnorm/add_1;asl24_camera_robust_1/conv0_a_1/convolution;asl24_camera_robust_1/bn0_a_1/batchnorm/sub4",
+  "tensor_shape": [
+    1,
+    28,
+    28,
+    32
+  ],
+  "test_row_one_based": 1,
+  "channels_zero_based": [
+    7,
+    24,
+    0,
+    31,
+    3,
+    22,
+    5,
+    21
+  ],
+  "selection": "eight highest mean activations",
+  "training_performed": false,
+  "gpu_used": false
+}
